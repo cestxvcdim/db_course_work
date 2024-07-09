@@ -1,0 +1,368 @@
+[
+    {
+        "company_name": "BY business group",
+        "vacancies": [
+            {
+                "name": "Бухгалтер на первичную документацию",
+                "salary": {
+                    "from": 80000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103382638",
+                "company_name": "BY business group"
+            },
+            {
+                "name": "Менеджер по продажам (Промстройаудит)",
+                "salary": {
+                    "from": 70000,
+                    "to": 120000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103308882",
+                "company_name": "BY business group"
+            },
+            {
+                "name": "Менеджер по обработке заявок",
+                "salary": {
+                    "from": 35000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103320260",
+                "company_name": "BY business group"
+            },
+            {
+                "name": "Менеджер по продажам на входящие заявки (промышленное оборудование)",
+                "salary": {
+                    "from": 100000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103356087",
+                "company_name": "BY business group"
+            }
+        ]
+    },
+    {
+        "company_name": "Яндекс Команда для бизнеса",
+        "vacancies": [
+            {
+                "name": "Менеджер поддержки Яндекс (звонки, чаты)",
+                "salary": {
+                    "from": 30000,
+                    "to": 44000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101862102",
+                "company_name": "Яндекс Команда для бизнеса"
+            },
+            {
+                "name": "Оператор на входящие сообщения и звонки (удаленно, в Яндекс)",
+                "salary": {
+                    "from": 30000,
+                    "to": 44000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101919764",
+                "company_name": "Яндекс Команда для бизнеса"
+            },
+            {
+                "name": "Менеджер голосовой поддержки в Яндекс",
+                "salary": {
+                    "from": 30000,
+                    "to": 44000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/101925217",
+                "company_name": "Яндекс Команда для бизнеса"
+            }
+        ]
+    },
+    {
+        "company_name": "Ваши Люди",
+        "vacancies": [
+            {
+                "name": "Комплектовщик на склад одежды (Вахта в Москве)",
+                "salary": {
+                    "from": 150000,
+                    "to": 350000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/96321425",
+                "company_name": "Ваши Люди"
+            },
+            {
+                "name": "Комплектовщик на склад (в Москве)",
+                "salary": {
+                    "from": 150000,
+                    "to": 450000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/102355707",
+                "company_name": "Ваши Люди"
+            }
+        ]
+    },
+    {
+        "company_name": "ПРОФЭКСПЕРТИЗА",
+        "vacancies": [
+            {
+                "name": "Актер дубляжа (озвучка)",
+                "salary": {
+                    "from": 75000,
+                    "to": 85000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/86744992",
+                "company_name": "ПРОФЭКСПЕРТИЗА"
+            },
+            {
+                "name": "Актер массовки",
+                "salary": {
+                    "from": 40000,
+                    "to": 80000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/88310246",
+                "company_name": "ПРОФЭКСПЕРТИЗА"
+            },
+            {
+                "name": "Администратор картинг-центра",
+                "salary": {
+                    "from": 75000,
+                    "to": 120000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/84892773",
+                "company_name": "ПРОФЭКСПЕРТИЗА"
+            },
+            {
+                "name": "Модель/ фотомодель Wildberries",
+                "salary": {
+                    "from": 100000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/93975408",
+                "company_name": "ПРОФЭКСПЕРТИЗА"
+            }
+        ]
+    },
+    {
+        "company_name": "StretchHouse",
+        "vacancies": [
+            {
+                "name": "Менеджер отдела продаж",
+                "salary": {
+                    "from": 60000,
+                    "to": 150000,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/103435646",
+                "company_name": "StretchHouse"
+            }
+        ]
+    },
+    {
+        "company_name": "Сарк.Ко Л",
+        "vacancies": [
+            {
+                "name": "Персональный водитель (Сколково)",
+                "salary": {
+                    "from": 180000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": true
+                },
+                "url": "https://hh.ru/vacancy/103594334",
+                "company_name": "Сарк.Ко Л"
+            }
+        ]
+    },
+    {
+        "company_name": "Биософт",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам",
+                "salary": {
+                    "from": 85000,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/100041868",
+                "company_name": "Биософт"
+            }
+        ]
+    },
+    {
+        "company_name": "Волоскова Татьяна Владимировна",
+        "vacancies": [
+            {
+                "name": "Копирайтер текстов отзывов",
+                "salary": {
+                    "from": 5000,
+                    "to": 12000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/102378023",
+                "company_name": "Волоскова Татьяна Владимировна"
+            }
+        ]
+    },
+    {
+        "company_name": "Валова Екатерина Дмитриевна",
+        "vacancies": [
+            {
+                "name": "Администратор магазина одежды (без опыта) ЕЖЕНЕДЕЛЬНЫЕ ВЫПЛАТЫ",
+                "salary": {
+                    "from": 120000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/102104415",
+                "company_name": "Валова Екатерина Дмитриевна"
+            },
+            {
+                "name": "Администратор магазина одежды (без опыта) ЕЖЕНЕДЕЛЬНЫЕ ВЫПЛАТЫ",
+                "salary": {
+                    "from": 120000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/102104416",
+                "company_name": "Валова Екатерина Дмитриевна"
+            }
+        ]
+    },
+    {
+        "company_name": "UP business",
+        "vacancies": [
+            {
+                "name": "Менеджер по продажам",
+                "salary": {
+                    "from": 150000,
+                    "to": 350000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103217685",
+                "company_name": "UP business"
+            }
+        ]
+    },
+    {
+        "company_name": "Aurum Queen",
+        "vacancies": [
+            {
+                "name": "Продавец-консультант",
+                "salary": {
+                    "from": 50000,
+                    "to": 100000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/99387379",
+                "company_name": "Aurum Queen"
+            }
+        ]
+    },
+    {
+        "company_name": "Р-Строй",
+        "vacancies": [
+            {
+                "name": "Персональный водитель руководителя",
+                "salary": {
+                    "from": 130000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103564301",
+                "company_name": "Р-Строй"
+            }
+        ]
+    },
+    {
+        "company_name": "Рост Развитие Решение",
+        "vacancies": [
+            {
+                "name": "Выездной менеджер по работе с клиентами",
+                "salary": {
+                    "from": 100000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/102773333",
+                "company_name": "Рост Развитие Решение"
+            }
+        ]
+    },
+    {
+        "company_name": "Промоушен.ру",
+        "vacancies": [
+            {
+                "name": "Персональный водитель руководителя",
+                "salary": {
+                    "from": 150000,
+                    "to": 160000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103591353",
+                "company_name": "Промоушен.ру"
+            }
+        ]
+    },
+    {
+        "company_name": "МСК-НТ",
+        "vacancies": [
+            {
+                "name": "Водитель офисный",
+                "salary": {
+                    "from": 90000,
+                    "to": null,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/103611538",
+                "company_name": "МСК-НТ"
+            }
+        ]
+    },
+    {
+        "company_name": "Модный Дом Mastersuit",
+        "vacancies": [
+            {
+                "name": "Мастер-портной в Дом Моды",
+                "salary": {
+                    "from": 120000,
+                    "to": 120000,
+                    "currency": "RUR",
+                    "gross": false
+                },
+                "url": "https://hh.ru/vacancy/99989889",
+                "company_name": "Модный Дом Mastersuit"
+            }
+        ]
+    }
+]
